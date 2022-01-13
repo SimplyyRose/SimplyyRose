@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SimplyyRose a 3rd year Java nerd
+- 👀 I’m interested in learning more languages and improving efficiency. 
+- 🌱 I’m currently learning Java, JavaScript, and Python.
+- 💞️ I love animals, gaming, and anime
+- 📫 I can be found on Discord at SimplyRose#0001
